@@ -2,7 +2,7 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/aarushi-pandey/pen/MWKzNMy](https://codepen.io/aarushi-pandey/pen/MWKzNMy).
 
-Built a drum machine using following user stories:
+Made a drum machine from scratch (with help from a youtube video) using the following user stories from freeCodeCamp:
 
 User Story #1: I should be able to see an outer container with a corresponding id="drum-machine" that contains all other elements.
 
@@ -18,3 +18,6 @@ User Story #6: When I press the trigger key associated with each .drum-pad, the 
 
 User Story #7: When a .drum-pad is triggered, a string describing the associated audio clip is displayed as the inner text of the #display element (each string must be unique).
 
+Link to the part 1 of the youtube video which helped me for this project- https://www.youtube.com/watch?v=nBF6dFjb7p0
+
+This was my submission for that project.
